@@ -1,0 +1,45 @@
+body {
+    background-color: #cdcbcb;
+}
+
+.simpleInstagram {
+	width: 550px;
+	height: 420px;
+	background: white;
+	margin: auto;
+	margin-bottom: 50px;
+}
+
+.photoTitle {
+	width: 100%;
+    size: 16px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.photoNumber {
+    color: #b8b8b8;
+    margin-right: 5px;
+}
+
+
+.simpleInstagram-body img {
+	width: 550px;
+	height: 300px;
+}
+
+.simpleInstagram-header {
+    background-color: white;
+	display: flex;
+}
+
+ h1 {
+	text-align: center;
+	background-color: white;
+	padding: 10px;
+	margin: 0 0 50px 0;
+}
+
+.simpleInstagram-footer {
+	margin: 0 20px 0 20px;
+}
